@@ -9,3 +9,5 @@ Explore the world of bike buyers through insightful visualizations! 📈 This Gi
 - 🎯 Data-driven decision-making for marketing strategies
 
 Dive into the world of bike buying trends and elevate your understanding of consumer preferences. 🌟 Ready to pedal through the data? Explore now! 🚵‍♀️💡 #BikeBuyers #DataVisualization #GoogleSheetsDashboard 📊
+<img width="733" alt="Screenshot 2024-01-25 at 11 45 06 AM" src="https://github.com/Adityaabhiram315/Bike-Buyer-s-data-visualisation/assets/95640107/316c6513-43ec-474d-9dc4-9f05a9b5cbaf">
+
